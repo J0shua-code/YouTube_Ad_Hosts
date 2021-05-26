@@ -1,0 +1,12 @@
+# 
+#                     --- YouTube Ad Blocklist ---
+# This project was created and is maintained by: Evan Pratten (@ewpratten)
+# More information at: https://github.com/Ewpratten/youtube_ad_blocklist
+# 
+0.0.0.0 r1---sn-cvh7knek.googlevideo.com
+0.0.0.0 r4---sn-cvh7kney.googlevideo.com
+0.0.0.0 r5---sn-cvh76nek.googlevideo.com
+0.0.0.0 r2---sn-cvh7knll.googlevideo.com
+0.0.0.0 r4---sn-cvh76nez.googlevideo.com
+0.0.0.0 r2---sn-cvh7kney.googlevideo.com
+0.0.0.0 
